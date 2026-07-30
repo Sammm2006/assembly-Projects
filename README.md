@@ -1,6 +1,6 @@
 # assembly-Projects
 
-A short dive into x86 assembly to find out — firsthand — how hard low-level programming actually is.
+A short dive into x86 assembly to find out - firsthand - how hard low-level programming actually is.
 
 ## What's here
 
